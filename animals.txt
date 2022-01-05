@@ -1,3 +1,5 @@
 rats
 cats
 dogs
+horses
+chickens
